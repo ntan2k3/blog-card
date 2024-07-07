@@ -104,6 +104,7 @@ body {
 
 .blog-desc {
     color: gray;
+    line-height: 150%;
 }
 
 .blog-author {
